@@ -3,7 +3,7 @@
 Visionme is an intelligence agent involving four functional networks: stage 1 for screening abnormal people in populations, stage 2 for localizing anatomical parts and foci in images, stage 3 for determining the attributes of anatomical parts and foci, stage 4 for providing treatment recommandations.
 
 
-Please feel free to contact us for any questions or comments: Erping Long, E-mail: liwangting@gzzoc.com.
+Please feel free to contact us for any questions or comments: Wangting Li, E-mail: liwangting@gzzoc.com.
 
 All codes for deep-learning convolutional neural networks were executed in the Caffe (Convolutional Architecture for Fast Feature Embedding) framework with Ubuntu 16.04 64bit + CUDA (Compute Unified Device Architecture).
 
