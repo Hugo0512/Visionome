@@ -1,6 +1,6 @@
 # Visionome
 
-Visionme is an intelligence agent involving four functional networks: stage 1 for screening abnormal people in populations, stage 2 for localizing anatomical parts and foci in images, stage 3 for determining the attributes of anatomical parts and foci, stage 4 for providing treatment recommandations.
+Visionme is an intelligence agent involving four function: stage 1 for screening abnormal people in populations, stage 2 for localizing anatomical parts and foci in images, stage 3 for determining the attributes of anatomical parts and foci, stage 4 for providing treatment recommandations.
 
 
 Please feel free to contact us for any questions or comments: Wangting Li, E-mail: liwangting@gzzoc.com.
